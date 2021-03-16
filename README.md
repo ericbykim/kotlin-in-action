@@ -1,3 +1,3 @@
 # Kotlin in Action 
 
-Wiki: https://github.com/ericbykim/kotlin-in-action/wiki
+Wiki: [Kotlin In Action 정리](https://github.com/ericbykim/kotlin-in-action/wiki)
